@@ -5,8 +5,7 @@ from user.constants import MT5_TIMEFRAMES, FOREX_PAIRS, LOT_SIZES
 from colors.ansi import RED, RESET
 
 def get_mt5_user_inputs():
-    print("")
-    print("========== Forex Bot Config ( MetaTrader 5 )==========")
+    print("========== Forex Bot Config ( MetaTrader 5 ) ==========")
 
     # Timeframe
     tf_input = questionary.select(
