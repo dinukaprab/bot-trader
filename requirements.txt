@@ -1,0 +1,11 @@
+os
+sys
+time
+warnings
+itertools
+threading
+questionary
+pandas
+pandas_ta
+MetaTrader5
+datetime
